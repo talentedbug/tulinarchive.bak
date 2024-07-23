@@ -1,3 +1,5 @@
+**IMPORTANT NOTICE**: This version of Tulin Archive is deprecated, public archived and renamed to tulinarchive.bak. For further development, please refer to the latest repository [tulinarchive](https://github.com/talentedbug/tulinarchive) with Material for MkDocs and Chinese introduction. This one exists only for backup and serves as website before the new project finishes. Some of information here is outdated.
+
 # Tulin Archive
 
 Welcome!
